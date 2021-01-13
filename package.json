@@ -1,0 +1,22 @@
+{
+  "name": "npm7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feelepxyz/npm7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feelepxyz/npm7/issues"
+  },
+  "homepage": "https://github.com/feelepxyz/npm7#readme",
+  "dependencies": {
+    "extend": "^3.0.2"
+  }
+}
